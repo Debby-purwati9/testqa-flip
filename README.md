@@ -1,7 +1,7 @@
 # testqa-flip
 Automation for test QA Flip
 
-# Automation Mobile Appium Mocha
+
 
 # Table of Contents
 1. [Requirements](#1-Requirements)
